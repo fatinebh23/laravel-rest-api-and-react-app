@@ -6,7 +6,6 @@ import Login from './components/login.component'
 import SignUp from './components/signup.component'
 import Dashboard from './components/dashboard.component'
 import Logout from './components/logout.component'
-import Logout from './components/logout.component' 
 
 function App() {
   return (
